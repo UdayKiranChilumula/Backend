@@ -1,4 +1,4 @@
-# Use official Node.js LTS base image0
+# Use official Node.js LTS base image00
 FROM node:18
 
 # Set working directory inside container
